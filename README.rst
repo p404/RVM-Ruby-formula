@@ -10,7 +10,7 @@ Set up rvm && install ruby
 
 Available states
 ================
-
+- rvm-ruby
 .. contents::
     :local:
 
