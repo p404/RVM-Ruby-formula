@@ -1,5 +1,5 @@
 ======
-Ruby-RVM Formula
+RVM-Ruby Formula
 ======
 
 Set up rvm && install ruby 
