@@ -18,7 +18,9 @@ Available states
 Example Pillar
 ================
 	ruby:
-	  version: 2.1.0
+	  version: 2.2.0
+	user:
+  	  name: rvm  
 
 
 Note: If you have any questions about this salt formulas, please feel free to drop me an email at paoc@sequel.ninja    
